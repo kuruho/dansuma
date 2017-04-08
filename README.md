@@ -10,4 +10,4 @@ and sounds
 
 Om Bema Tare Sendara Hri Sarva Loka Washum Kuruho
 
-It is believed to be the mantra increasing your force-
+It is believed to be the mantra increasing your force.
