@@ -4,6 +4,10 @@
 
 See [wiki](https://github.com/kuruho/dansuma/wiki).
 
+#### Architecture
+
+See [Diagram](Hackaton_HLA.svg)
+
 ### Why Kuruho?
 
 The origin of the name kuruho comes from a mantra.
