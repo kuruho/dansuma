@@ -2,7 +2,7 @@
 
 ### What is Dansuma?
 
-See Pitch
+See [wiki](https://github.com/kuruho/dansuma/wiki).
 
 ### Why Kuruho?
 
