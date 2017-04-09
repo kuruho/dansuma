@@ -1,6 +1,10 @@
-# projectname
+# Kuruho > Dansuma
 
-brainstorming
+### What is Dansuma?
+
+See Pitch
+
+### Why Kuruho?
 
 The origin of the name kuruho comes from a mantra.
 In fact on the net is more and more difficult to
@@ -11,3 +15,5 @@ and sounds
 Om Bema Tare Sendara Hri Sarva Loka Washum Kuruho
 
 It is believed to be the mantra increasing your force.
+
+**Copyright (C) 2017, Kuruho Team. All Rights Reserved**
