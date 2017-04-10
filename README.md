@@ -12,7 +12,7 @@ See [Diagram](Hackaton_HLA.svg).
 
 ### What does "Dansuma" mean?
 
-Although the name might sounds Japanese (dan-suma) or American English (Den-sumah), its [real meaning](http://www.piemunteis.it/dep/dizionario.dep) can be guessed by remembering the location where the [Hackathon Droidcon Italy 2017](http://it.droidcon.com/2017/hackathon-droidcon-italy/) took place.
+Although the name might sounds Japanese (dan-suma) or American English (Den-sumah), its [real meaning](http://www.piemunteis.it/dep/printWordDetail.dep?wordId=6_6113) can be guessed by remembering the location where the [Hackathon Droidcon Italy 2017](http://it.droidcon.com/2017/hackathon-droidcon-italy/) took place.
 
 ### What does "Kuruho" mean?
 
