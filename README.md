@@ -4,11 +4,15 @@
 
 See [presentation](http://prezi.com/mhuhgcrj75a3/?utm_campaign=share&utm_medium=copy) and [wiki](https://github.com/kuruho/dansuma/wiki).
 
-Dansuma was created during the [Hackathon Droidcon Italy 2017](http://it.droidcon.com/2017/hackathon-droidcon-italy/) by the [Kuruho Team](https://github.com/kuruho) and has been awarded the prizes from [UDOO](http://www.udoo.org/), [Volumio](https://volumio.org/) and the [AAL Programme](http://www.aal-europe.eu/).
+Dansuma was started during the [Hackathon Droidcon Italy 2017](http://it.droidcon.com/2017/hackathon-droidcon-italy/) by the [Kuruho Team](https://github.com/kuruho) and got awarded the prizes from [UDOO](http://www.udoo.org/), [Volumio](https://volumio.org/) and the [AAL Programme](http://www.aal-europe.eu/).
 
 #### Architecture
 
 See [Diagram](Hackaton_HLA.svg).
+
+### What does "Dansuma" mean?
+
+Although the name might sounds Japanese (dan-suma) or American English (Den-sumah), its [real meaning](http://www.piemunteis.it/dep/dizionario.dep) can be guessed by remembering the location where the [Hackathon Droidcon Italy 2017](http://it.droidcon.com/2017/hackathon-droidcon-italy/) took place.
 
 ### What does "Kuruho" mean?
 
