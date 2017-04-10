@@ -10,7 +10,7 @@ Dansuma was created during the [Hackathon Droidcon Italy 2017](http://it.droidco
 
 See [Diagram](Hackaton_HLA.svg).
 
-### Why Kuruho?
+### What does "Kuruho" mean?
 
 The origin of the name kuruho comes from a mantra.
 In fact on the net is more and more difficult to
