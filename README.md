@@ -4,7 +4,7 @@
 
 **Dansuma** is an integrated entertainment system dedicated to hosts of social gatherings where music is to be played.
 
-See [presentation](http://prezi.com/mhuhgcrj75a3/?utm_campaign=share&utm_medium=copy) and [wiki](https://github.com/kuruho/dansuma/wiki).
+See [presentation](http://prezi.com/mhuhgcrj75a3/?utm_campaign=share&utm_medium=copy) ([also in PDF](dansuma_presentation.pdf)) and [wiki](https://github.com/kuruho/dansuma/wiki).
 
 The Dansuma project was started during the [Hackathon Droidcon Italy 2017](http://it.droidcon.com/2017/hackathon-droidcon-italy/) by the [Kuruho Team](https://github.com/kuruho) and got awarded the prizes from [UDOO](http://www.udoo.org/), [Volumio](https://volumio.org/) and the [AAL Programme](http://www.aal-europe.eu/).
 
