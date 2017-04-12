@@ -10,7 +10,7 @@ The Dansuma project was started during the [Hackathon Droidcon Italy 2017](http:
 
 #### Architecture
 
-See [Diagram](Hackaton_HLA.svg).
+![Dansuma Architecture](https://cdn.rawgit.com/kuruho/dansuma/2b6d79a4/Hackaton_HLA.svg)
 
 ### Frequently Asked Questions
 
