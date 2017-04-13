@@ -12,6 +12,17 @@ The Dansuma project was started during the [Hackathon Droidcon Italy 2017](http:
 
 ![Dansuma Architecture](https://cdn.rawgit.com/kuruho/dansuma/2b6d79a4/Hackaton_HLA.svg)
 
+#### Press Coverage
+
+Some (non-exhaustive) links:
+
+* https://www.linkedin.com/feed/update/urn:li:activity:6257084651614019584/
+* https://twitter.com/Droidconit/status/851110065889304576
+* https://twitter.com/Droidconit/status/851079450506743808
+* https://twitter.com/boanergos/status/850701655989506049
+* https://twitter.com/Droidconit/status/850604243555889152
+* https://www.tomshw.it/droidcon-italy-2017-cuore-android-italia-84405
+
 ### Frequently Asked Questions
 
 #### What does "Dansuma" mean?
