@@ -43,4 +43,8 @@ It is believed to be the mantra increasing your force.
 
 The name was proposed by [one of the team members](https://github.com/muwattalli/) and soon loved by everybody, even though [another team member](https://github.com/gmacario) is still unable to spell it correctly...
 
+#### Who are the Kuruho team members?
+
+TODO
+
 **Copyright (C) 2017, [the Kuruho Team](https://github.com/kuruho/). All Rights Reserved**
