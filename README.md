@@ -43,4 +43,14 @@ It is believed to be the mantra increasing your force.
 
 The name was proposed by [one of the team members](https://github.com/muwattalli/) and soon loved by everybody, even though [another team member](https://github.com/gmacario) is still unable to spell it correctly...
 
+#### Who are the Kuruho team members?
+
+Here are the people who created the Dansuma project at the Hackathon Droidcon Italy 2017:
+
+1. [Gianpaolo Macario](https://github.com/gmacario)
+2. [Luigi Maselli](https://github.com/grigio)
+3. [Gianfranco Poncini](https://github.com/Muwattalli)
+4. [Valerio Sacchetto](https://github.com/zakkos) (with help from [Gloria Puppi](https://github.com/gloryp))
+5. [Luca Belluccini](https://github.com/lucabelluccini) (remotely from Nice)
+
 **Copyright (C) 2017, [the Kuruho Team](https://github.com/kuruho/). All Rights Reserved**
