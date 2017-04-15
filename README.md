@@ -53,4 +53,8 @@ Here are the people who created the Dansuma project at the Hackathon Droidcon It
 4. [Valerio Sacchetto](https://github.com/zakkos) (with help from [Gloria Puppi](https://github.com/gloryp))
 5. [Luca Belluccini](https://github.com/lucabelluccini) (remotely from Nice)
 
+### Copyright and License
+
 **Copyright (C) 2017, [the Kuruho Team](https://github.com/kuruho/). All Rights Reserved**
+
+Dansuma is an Open Source Project, for details please see the [LICENSE](LICENSE) file inside this repository and the repository of the related projects.
