@@ -41,7 +41,7 @@ and sounds
 
 It is believed to be the mantra increasing your force.
 
-The name was proposed by [one of the team members](https://github.com/muwattalli/) and soon loved by everybody, even though [another team member](https://github.com/gmacario) is still unable to spell it correctly...
+The name was proposed by [one of the team members](https://github.com/muwattalli/) and soon loved by everybody, even though [at least one team member](https://github.com/gmacario) is still unable to spell it correctly...
 
 #### Who are the Kuruho team members?
 
